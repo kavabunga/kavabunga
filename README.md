@@ -3,7 +3,7 @@ For many years I worked as a professional photographer. Now web dev excites me m
 I’m interested in contemporary art and culture, love to explore specialty coffees and brew approaches and have a guilty pleasure of organizing stuff (big fan of Notion, Google Apps etc.)  
 
 ### My technology stack is:  
-**HTML**, **CSS**, **Javascript**, **Node.js**, **Express.js**, **MongoDB**, **Jest**, **Git**, **Foundation**
+HTML, CSS, Javascript, Node.js, Express.js, MongoDB, Jest, Git, Foundation
 <!--
 **kavabunga/kavabunga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
