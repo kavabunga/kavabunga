@@ -1,5 +1,9 @@
-### Hi there 👋
+For many years I worked as a professional photographer. Now web dev excites me much more and I'm studying it at [Yandex.Practicum](https://practicum.yandex.ru/ "Yandex.Practicum").  
 
+I’m interested in contemporary art and culture, love to explore specialty coffees and brew approaches and have a guilty pleasure of organizing stuff (big fan of Notion, Google Apps etc.)  
+
+###My technology stack is:
+**HTML**, **CSS**, **Javascript**, **Node.js**, **Express.js**, **MongoDB**, **Jest**, **Git**, **Foundation**
 <!--
 **kavabunga/kavabunga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
