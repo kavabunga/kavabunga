@@ -1,6 +1,6 @@
 # Hey there!
 
-I'm Semen Katz and I'm studying web dev at [Yandex.Practicum](https://practicum.yandex.ru/ "Yandex.Practicum"). For many years I worked as a professional photographer. While developing my first portfolio website, I became very excited in the development process and loved coding. Finally I realized, that I want this to be not just a hobby but a hard skill and probably my next job.  
+I'm Semen Katz and I'm in the begining of web dev career. For many years I worked as a professional photographer. While developing my first portfolio website, I became very excited in the development process and loved coding. Finally I realized, that I want this to be not just a hobby but a hard skill and probably my next job and graduated from [Yandex.Practicum](https://practicum.yandex.ru/ "Yandex.Practicum").  
 
 My stack consists of **MERN** (MongoDB, Express.js, React.js, Node.js) and also HTML, CSS, Javascript, Git, Foundation.
 
