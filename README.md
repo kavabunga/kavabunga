@@ -5,7 +5,7 @@ I'm Semyon Katz and I'm in the begining of web dev career. For many years I work
 My stack includes:  
 ![Static Badge](https://img.shields.io/badge/HTML-gray) ![Static Badge](https://img.shields.io/badge/CSS-gray) ![Static Badge](https://img.shields.io/badge/JS-gray) ![Static Badge](https://img.shields.io/badge/React-gray) ![Static Badge](https://img.shields.io/badge/Node.js-gray) ![Static Badge](https://img.shields.io/badge/Express.js-gray) ![Static Badge](https://img.shields.io/badge/mongoDB-gray) ![Static Badge](https://img.shields.io/badge/Git-gray) ![Static Badge](https://img.shields.io/badge/TS-studying-lightgray) ![Static Badge](https://img.shields.io/badge/zustand-studying-lightgray) ![Static Badge](https://img.shields.io/badge/MUI-studying-lightgray)
 
-I speak Russian, English and study Hebrew. I’m interested in contemporary art and culture, love to explore specialty coffees and brew approaches and have a guilty pleasure of organizing stuff (big fan of Notion, Google Apps etc.)  
+I speak Russian, English and study Hebrew. I’m interested in technology, science, contemporary art and culture, love to explore specialty coffees and brew approaches and have a guilty pleasure of organizing stuff (big fan of Notion, Google Apps etc.)  
 
 For now, I'm looking for opportunities to improve my skills in JS and React and to explore other frameworks. I'm open for volunteering. Don't hesitate to reach me with any proposals.  
 
