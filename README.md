@@ -7,7 +7,7 @@ My tech stack comprises:
 
 Fluent in Russian and English, I am also studying Hebrew. My interests span technology, science, contemporary art, and culture. I revel in exploring specialty coffees and various brewing approaches, and I have a guilty pleasure in organizing things (a devoted user of Notion, Google Apps, etc.).
 
-Currently, I am engaged in diverse pet and non-commercial projects, seeking opportunities to enhance my skills in TypeScript and React, while also exploring other frameworks. I am open to volunteering and welcome any proposals you may have.
+Currently, I am engaged in diverse pet and non-commercial projects, seeking opportunities to enhance my skills in TypeScript, Next.js and React, while also exploring other tools. I am open to volunteering and welcome any proposals you may have.
 
 ### Contacts:
 email: [kavabunga@gmail.com](mailto:kavabunga@gmail.com "kavabunga@gmail.com")  
